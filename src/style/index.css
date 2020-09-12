@@ -15,7 +15,6 @@ body {
 
 .header {
   background-color: #262626;
-  color: #b3bcc5;
   padding: 20px 0;
 }
 
@@ -25,6 +24,11 @@ body {
   padding: 0;
   display: flex;
   justify-content: space-evenly;
+}
+
+.header-item {
+  color: #b3bcc5;
+  text-decoration: none;
 }
 
 .main-content {
